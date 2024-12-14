@@ -1,2 +1,2 @@
-# mys
+# MysGame
 Malaysia Online Game Platform
